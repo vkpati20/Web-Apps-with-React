@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Web Apps with React
+This application was completly created with ReactJS. It contains an Intro page with Todo List and Weather Apps. Todo List App allows you to add unlimited todos and Weather App allows you to enter a city name and displays current weather. 
 
-## Available Scripts
+## Getting Started
+Install [Node.js](https://nodejs.org/en/) to execute ```npm``` commands
 
-In the project directory, you can run:
+Before running the project, install run the following command in the project directory
+```npm install```
 
 ### `npm start`
 
@@ -37,32 +41,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Deployment
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
